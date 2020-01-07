@@ -58,7 +58,7 @@
 		<spring-platform.version>Cairo-SR3</spring-platform.version>
 		<spring.social.version>1.1.6.RELEASE</spring.social.version>
 		<spring-security.version>5.1.1.RELEASE</spring-security.version>
-		<security-oauth2.version>2.3.4.RELEASE</security-oauth2.version>
+		<security-oauth2.version>2.3.6.RELEASE</security-oauth2.version>
 		<commons-collections4.version>4.1</commons-collections4.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<hibernate-validator.verion>5.0.2.Final</hibernate-validator.verion>
